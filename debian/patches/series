@@ -1,0 +1,5 @@
+skip_network_needing_test.patch
+log-on-stderr.diff
+CVE-2019-6690-1.patch
+CVE-2019-6690-2.patch
+CVE-2018-12020.patch

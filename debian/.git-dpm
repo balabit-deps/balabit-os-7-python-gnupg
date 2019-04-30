@@ -1,0 +1,11 @@
+# see git-dpm(1) from git-dpm package
+e9d26814c64d0bedb5021e37247d07741bb04515
+e9d26814c64d0bedb5021e37247d07741bb04515
+c8cae436bd76deb1ca78fb573de1aa043b8a2d09
+c8cae436bd76deb1ca78fb573de1aa043b8a2d09
+python-gnupg_0.4.1.orig.tar.gz
+68e8c28ccc812e8074f62700aa7a895274500644
+44534
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"
